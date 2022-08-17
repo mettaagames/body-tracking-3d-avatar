@@ -1,0 +1,22 @@
+{
+  "name": "body-tracking-3d-avatar",
+  "version": "1.0.0",
+  "description": "body-tracking-3d-avatar app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mettaagames/body-tracking-3d-avatar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mettaagames/body-tracking-3d-avatar/issues"
+  },
+  "homepage": "https://github.com/mettaagames/body-tracking-3d-avatar#readme",
+  "dependencies": {
+    "kalidokit": "^1.1.5"
+  }
+}
